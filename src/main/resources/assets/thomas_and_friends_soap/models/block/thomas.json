@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "thomas_and_friends_soap:blocks/images-1",
+    "particle": "thomas_and_friends_soap:blocks/images-1"
+  }
+}

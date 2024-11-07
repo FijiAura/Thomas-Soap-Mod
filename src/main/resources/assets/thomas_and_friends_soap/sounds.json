@@ -1,0 +1,11 @@
+{
+  "soapisveryyummy": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thomas_and_friends_soap:yummy",
+        "stream": false
+      }
+    ]
+  }
+}

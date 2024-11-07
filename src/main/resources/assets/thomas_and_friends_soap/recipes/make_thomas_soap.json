@@ -1,0 +1,23 @@
+{
+  "group": "thomas_and_friends_soap",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "thomas_and_friends_soap:smelted_thomas"
+    },
+    "2": {
+      "item": "thomas_and_friends_soap:smelted_thomas"
+    },
+    "4": {
+      "item": "thomas_and_friends_soap:smelted_thomas"
+    }
+  },
+  "result": {
+    "item": "thomas_and_friends_soap:thomas_soap",
+    "count": 1
+  }
+}

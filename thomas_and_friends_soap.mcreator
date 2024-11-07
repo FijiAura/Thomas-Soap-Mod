@@ -1,0 +1,129 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Thomas",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thomas"
+    },
+    {
+      "name": "SmeltedThomas",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smelted_thomas"
+    },
+    {
+      "name": "ThomasSoapFoodEaten",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thomas_soap_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ThomasSoap",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thomas_soap"
+    },
+    {
+      "name": "SmeltThomasOre",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smelt_thomas_ore",
+      "path": "~/thomassoaprecipes"
+    },
+    {
+      "name": "MakeThomasSoap",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "make_thomas_soap",
+      "path": "~/thomassoaprecipes"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "soapisveryyummy",
+      "files": [
+        "yummy"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.soapisveryyummy": "",
+      "item.smelted_thomas.name": "Smelted Thomas",
+      "tile.thomas.name": "Thomas",
+      "item.thomas_soap.name": "Thomas and friends 3 in 1 Shampoo Hair and Body Wash"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "thomassoaprecipes",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "thomas_and_friends_soap",
+    "modName": "Thomas and friends 3 in 1 Shampoo Hair and Body Wash Mod",
+    "version": "1.0.0",
+    "description": "Make and drink thomas and friends soap!",
+    "author": "FijiAura, MCreator",
+    "websiteURL": "https://youtu.be/P7I6rmtHB60",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "based on kracc bacc\u0027s video",
+    "modElementsPackage": "net.mcreator.thomasandfriendssoap",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
