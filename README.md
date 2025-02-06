@@ -3,7 +3,7 @@
 
 Based off of this video by kracc bacc
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P7I6rmtHB60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube-nocookie.com/embed/P7I6rmtHB60
 
 Your dream could become a reality (in minecraft)
 
